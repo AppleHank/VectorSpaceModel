@@ -1,1 +1,2 @@
 # VectorSpaceModel
+IR(Information Retrieval)的經典模型，將Query和Document的每一個文字embeded到向量空間中，計算兩個向量的cosine similarity，在IR的歷史中具有強烈的啟發性。
